@@ -2,6 +2,10 @@ DATA/*
 LOGS/*
 RESULTS/*
 
+!DATA/.gitkeep
+!LOGS/.gitkeep
+!RESULTS/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
